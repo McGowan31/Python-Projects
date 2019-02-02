@@ -1,3 +1,5 @@
+#Written by Jack McGowan
+#Version 1.0
 day = 0
 month_list = ["January","February","March","April","May","June","July","August","September","October","November","December"]
 
